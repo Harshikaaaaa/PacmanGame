@@ -1,0 +1,6 @@
+game\Game.class
+game\Dot.class
+game\Maze.class
+game\Pacman.class
+game\Ghost.class
+game\GamePanel.class
