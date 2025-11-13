@@ -30,5 +30,5 @@ Apache Maven is a build automation and dependency management tool for Java proje
 
 
 To run project :
-mvn clean compile
-mvn exec:java
+```mvn clean compile```; then run : ```mvn exec:java```
+
